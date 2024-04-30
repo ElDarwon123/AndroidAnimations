@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestAnimations</string>
+    <string name="textoDesc">Neco-Arc es un miembro de la raza de los espíritus neco originaria de la Gran Aldea de los Gatos. Se convirtió en la alumna de Ciel, actuando constantemente en represalia por tener tan poco tiempo en pantalla y deseando que la gente piense que es inteligente. Se habla de ella como una «creación de Kischur Zelretch Schweinorg» según Aoko Aozaki, sugiriendo que fue traída de otro mundo, pero también se dice que hay una «cierta leyenda urbana» que habla de seis neco-arcs y uno que los supera como una posible materialización de TATARI. Otros neco-arcs incluyen a Neco-Arc Bubbles, Neco-Arc Chaos, Neco-Arc Destiny, Neco-Arc Evolution y Mysterious Neco Z.</string>
+    <string name="necoTitle">Neco Arc</string>
+</resources>
